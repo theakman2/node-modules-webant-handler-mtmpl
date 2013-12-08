@@ -37,6 +37,6 @@ require("../path/to/tmpl.mtmpl");
 
 See the [webant](https://github.com/theakman2/node-modules-webant) module for more information.
 
-## Tests
+## Tests [![Build Status](https://travis-ci.org/theakman2/node-modules-webant-handler-mtmpl.png?branch=master)](https://travis-ci.org/theakman2/node-modules-webant-handler-mtmpl)
 
     $ npm test
