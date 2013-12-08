@@ -1,1 +1,1 @@
-Testing <%=name%>.
+Testing <%=data.name%>.
