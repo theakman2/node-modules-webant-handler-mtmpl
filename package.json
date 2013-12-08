@@ -12,9 +12,9 @@
     "template",
     "templating"
   ],
-  "version": "0.1.0",
+  "version": "0.2.0",
   "dependencies":{
-    "mtmpl":"0.1.x"
+    "mtmpl":"0.2.x"
   },
   "devDependencies": {
     "tap": "0.4.x"
