@@ -1,6 +1,6 @@
 # node-modules-webant-handler-mtmpl
 
-_Require John Resig's micro-templating files with [webant](https://github.com/theakman2/node-modules-webant)_
+_Require John Resig style micro-templating files with [webant](https://github.com/theakman2/node-modules-webant)_
 
 See:
 
