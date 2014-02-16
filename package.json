@@ -1,31 +1,27 @@
 {
-  "name": "webant-handler-mtmpl",
-  "author": {
-    "name": "A Kazim"
-  },
-  "description": "Require mtmpl files with webant.",
-  "keywords": [
-    "ant",
-    "handler",
-    "micro templating",
-    "mtmpl",
-    "template",
-    "templating"
-  ],
-  "version": "1.0.0",
-  "dependencies":{
-    "mtmpl":"0.2.x"
-  },
-  "devDependencies": {
-    "tap": "0.4.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/theakman2/node-modules-webant-handler-mtmpl.git"
-  },
-  "main": "./lib/index.js",
-  "scripts": {
-    "test": "node ./test/index.js"
-  },
-  "license": "MIT"
+	"name": "webant-handler-mtmpl",
+	"author": {
+		"name": "A Kazim"
+	},
+	"description": "Require mtmpl files with webant.",
+	"keywords": ["ant", "handler", "micro templating", "mtmpl", "template", "templating"],
+	"version": "2.0.0",
+	"dependencies": {
+		"mtmpl": "0.2.x"
+	},
+	"devDependencies": {
+		"extend": "1.2.x",
+		"shell-escape": "~0.0.1",
+		"test": "0.6.x",
+		"webant": "~4.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/theakman2/node-modules-webant-handler-mtmpl.git"
+	},
+	"main": "./lib/index.js",
+	"scripts": {
+		"test": "node ./test/index.js"
+	},
+	"license": "MIT"
 }
