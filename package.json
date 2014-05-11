@@ -5,7 +5,7 @@
 	},
 	"description": "Require mtmpl files with webant.",
 	"keywords": ["ant", "handler", "micro templating", "mtmpl", "template", "templating"],
-	"version": "2.0.0",
+	"version": "2.1.0",
 	"dependencies": {
 		"mtmpl": "0.2.x"
 	},
@@ -13,7 +13,7 @@
 		"extend": "1.2.x",
 		"shell-escape": "~0.0.1",
 		"test": "0.6.x",
-		"webant": "~4.0.0"
+		"webant": "~5.0.0"
 	},
 	"repository": {
 		"type": "git",
